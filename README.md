@@ -1,4 +1,4 @@
-# Rendalo Maq Back-end
+# Rendalo Maq Front-end
 Esta sección contiene Front-end.
 ## Comenzando 🚀
 
